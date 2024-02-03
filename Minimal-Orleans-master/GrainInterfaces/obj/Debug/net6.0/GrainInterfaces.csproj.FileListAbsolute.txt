@@ -1,0 +1,5 @@
+C:\Users\SPECTRE\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.csproj.AssemblyReference.cache
+C:\Users\SPECTRE\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPECTRE\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.AssemblyInfoInputs.cache
+C:\Users\SPECTRE\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.AssemblyInfo.cs
+C:\Users\SPECTRE\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.csproj.CoreCompileInputs.cache
